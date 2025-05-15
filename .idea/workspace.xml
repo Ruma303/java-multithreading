@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcbe3df3-3de3-4ba9-9773-af49b202db43" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercises/ThreadCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lessons/Threads.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lessons/VirtualThreads.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lessons/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +56,7 @@
     "Application.Main.executor": "Run",
     "Application.ThreadCreation.executor": "Run",
     "Application.Threads.executor": "Run",
+    "Application.VirtualThreads.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -77,7 +75,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Threads">
+  <component name="RunManager" selected="Application.VirtualThreads">
     <configuration name="ThreadCreation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercises.ThreadCreation" />
       <module name="java-multithreading" />
@@ -104,8 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VirtualThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lessons.VirtualThreads" />
+      <module name="java-multithreading" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VirtualThreads" />
         <item itemvalue="Application.Threads" />
         <item itemvalue="Application.ThreadCreation" />
       </list>
@@ -129,7 +141,9 @@
       <workItem from="1747132239867" duration="992000" />
       <workItem from="1747143026927" duration="10000" />
       <workItem from="1747208287050" duration="14000" />
-      <workItem from="1747208327578" duration="5148000" />
+      <workItem from="1747208327578" duration="6035000" />
+      <workItem from="1747293103446" duration="13000" />
+      <workItem from="1747293129914" duration="725000" />
     </task>
     <servers />
   </component>
